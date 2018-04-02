@@ -8,6 +8,7 @@ setup(
         'Click',
         'dnspython',
         'validators',
+        'ipdb',
     ],
     entry_points='''
         [console_scripts]
